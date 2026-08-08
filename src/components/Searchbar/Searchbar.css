@@ -1,0 +1,24 @@
+.Searchbar {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background-color: #3f51b5;
+}
+
+.SearchForm {
+  display: flex;
+}
+
+.SearchForm-input {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.SearchForm-button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
